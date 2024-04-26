@@ -1,0 +1,15 @@
+C:\Users\27660\Desktop\.maui\ATM APP\bin\Debug\net7.0\ATM APP.exe
+C:\Users\27660\Desktop\.maui\ATM APP\bin\Debug\net7.0\ATM APP.deps.json
+C:\Users\27660\Desktop\.maui\ATM APP\bin\Debug\net7.0\ATM APP.runtimeconfig.json
+C:\Users\27660\Desktop\.maui\ATM APP\bin\Debug\net7.0\ATM APP.dll
+C:\Users\27660\Desktop\.maui\ATM APP\bin\Debug\net7.0\ATM APP.pdb
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.csproj.AssemblyReference.cache
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.AssemblyInfoInputs.cache
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.AssemblyInfo.cs
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.csproj.CoreCompileInputs.cache
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.dll
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\refint\ATM APP.dll
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.pdb
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ATM APP.genruntimeconfig.cache
+C:\Users\27660\Desktop\.maui\ATM APP\obj\Debug\net7.0\ref\ATM APP.dll
